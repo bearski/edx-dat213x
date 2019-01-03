@@ -17,7 +17,7 @@ install.packages('seriation') # package for reordering a distance matrix
 # 1.1d loading packages
 #####################################################################
 
-setwd('C:/DAT213x/script')
+setwd('C:/projects/edX/DAT213x/script')
 
 options(max.print = 1000, scipen = 999, width = 90)
 library(RevoScaleR)
