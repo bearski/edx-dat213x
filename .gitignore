@@ -329,6 +329,7 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 
+# bearski
 # excluding stuff from this project
 *.csv
 ZillowNeighborhoods-NY/
